@@ -1,0 +1,4 @@
+
+Learn Python File Handling
+Read FastAPI Documentation
+Practice String Methods
