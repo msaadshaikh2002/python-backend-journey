@@ -49,7 +49,7 @@ Day-08-OOP-Student-Management/
 
 ## Technologies Used
 
-- Python 3
+- Python 3.12
 
 ---
 
