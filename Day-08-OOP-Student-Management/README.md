@@ -82,4 +82,4 @@ Through this project I learned:
 
 **Saad Shaikh**
 
-Python Backend Developer | Learning in Public
+Python Backend Developer | Learning in Public.
