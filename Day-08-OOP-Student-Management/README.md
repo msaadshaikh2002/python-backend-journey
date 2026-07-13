@@ -1,4 +1,4 @@
-# 📚 Day 08 – OOP Student Management System
+# 📚 Day 08 – OOP Student Management System.
 
 ## Overview
 
